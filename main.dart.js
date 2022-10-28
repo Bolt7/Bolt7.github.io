@@ -21471,7 +21471,7 @@ var $async$RD=A.T(function(a,b){if(a===1)return A.P(b,r)
 while(true)switch(s){case 0:s=3
 return A.M(A.fx(),$async$RD)
 case 3:h=b
-g=[["Team","Taxi","Auto Low Goal Scored","Auto High Goal Scored","Auto Low Goal Miss","Auto High Goal Miss","Teleop Low Goal Scored","Teleop High Goal Scored","Teleop Low Goal Miss","Teleop High Goal Miss","Foul","Tech Foul","Defensive","Low Rung Success","Mid Rung Success","High Rung Success","Traversal Rung Success","Ranking Points","Comments"],["",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"",""]]
+g=[["Team","Taxi","Auto Low Goal Scored","Auto High Goal Scored","Auto Low Goal Miss","Auto High Goal Miss","Teleop Low Goal Scored","Teleop High Goal Scored","Teleop Low Goal Miss","Teleop High Goal Miss","Foul","Tech Foul","Defensive","Low Rung Success","Mid Rung Success","High Rung Success","Traversal Rung Success","Comments"],["",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,""]]
 for(p=g[0],o=p.length,n=h.a,m=J.af(n),l=0;l<p.length;p.length===o||(0,A.L)(p),++l){k=p[l]
 if(J.d9(m.h(n,k))!=="null"){if(J.Z(m.h(n,k))===B.vX)j=A.fc(m.h(n,k))?1:0
 else j=m.h(n,k)
